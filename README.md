@@ -13,9 +13,16 @@ jRhodes3D for Nord instruments
 The jRhodes3 sampleset has 5 velocity layers, but sadly Nord user samples are
 limited to a single velocity layer.  I selected the middle layer, more or less.
 Some samples have tuning adjusted so that they layer nicely with Nord's
-EP8 Nefertiti Rhodes.  I set the jRodes at dynamics level 1 and Nefertiti
+EP8 Nefertiti Rhodes.  I set the jRodes at dynamics level 2 and Nefertiti
 at dynamics level 3, so that Nefertiti provides the growl when I dig in.
-I set Nefertiti 3 to 6 dB lower.
+I set Nefertiti 3 to 3 dB lower.
+
+Two versions are provided:
+- jRhodes4d-st.nsmp3 - DYNAMICS not enabled, so no velocity-based filter
+- jRhodes4d-st-dynamic.nsmp3 - DYNAMICS enabled, so less LPF with higher velocities.
+
+I use the non-dynamic version, which when layered with Nefertiti, is
+more realistic.
 
 The rest of this page was duplicated from the jRhodes3d sfz sampleset.
 
