@@ -2,7 +2,7 @@
 
 jRhodes3D for Nord instruments
 
-1977 Rhodes Mark I Stage 73, full-length samples - Nord format
+1977 Rhodes Mark I Stage 73, full-length samples - Nord nsmp3 format
 
 6MB file
 
@@ -12,10 +12,10 @@ jRhodes3D for Nord instruments
 
 The jRhodes3 sampleset has 5 velocity layers, but sadly Nord user samples are
 limited to a single velocity layer.  I selected the middle layer, more or less.
-Some samples have tuning adjusted so that they layer nicely with Nord's
-EP8 Nefertiti Rhodes.  I set the jRodes at dynamics level 2 and Nefertiti
+Some samples have tuning adjusted so that they layer nicely with the NE6
+`EP8 Nefertiti Rhodes`.  I set the jRhodes at dynamics level 2 and Nefertiti
 at dynamics level 3, so that Nefertiti provides the growl when I dig in.
-I set Nefertiti 3 to 3 dB lower.
+I set Nefertiti level 3 dB lower than the jRhodes.
 
 Two versions are provided:
 - jRhodes4d-st.nsmp3 - DYNAMICS not enabled, so no velocity-based filter
